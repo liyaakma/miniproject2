@@ -1,0 +1,13 @@
+# Database credentials
+config/database.php
+
+# Deployment ZIP
+miniproject2.zip
+
+# User uploaded profile pictures
+uploads/*
+!uploads/.gitkeep
+
+# Windows files
+Thumbs.db
+.DS_Store
